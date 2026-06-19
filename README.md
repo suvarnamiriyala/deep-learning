@@ -159,3 +159,4 @@ plt.show()
 OUTPUT  :
 
 <img width="1096" height="765" alt="Image" src="https://github.com/user-attachments/assets/1a7e17fd-b082-403a-81c3-aa4fd80f8650" />
+<img width="1096" height="765" alt="Image" src="https://github.com/user-attachments/assets/1a7e17fd-b082-403a-81c3-aa4fd80f8650" />
